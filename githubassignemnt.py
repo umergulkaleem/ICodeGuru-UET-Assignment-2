@@ -1,0 +1,1 @@
+print("This is a Github practice repo meant for ICodeGuru Assignemnt")
