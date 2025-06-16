@@ -1,3 +1,5 @@
+input1 = input("enter your name")
+input2 = input("enter age")
 print("This is a Github practice repo meant for ICodeGuru Assignemnt")
 print("Second Commit is made")
 print("Third Commit is made")
